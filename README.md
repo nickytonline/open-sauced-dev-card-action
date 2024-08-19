@@ -1,6 +1,13 @@
-# OpenSauced Dev Card Fetcher
+# OpenSauced Dev Card GitHub Action
 
 This project fetches the [OpenSauced](https://opensauced.pizza) dev card for an OpenSauced user with the GitHub username specified in the GitHub action.
+
+[![nickytonline's OpenSauced Dev Card](./dev-card.png)](https://oss.fyi/nickytonline)
+
+## About the OpenSauced Dev Card
+
+- [Showcase Your Open Source Stats with Your Dev Card](https://opensauced.pizza/docs/features/dev-card/)
+- [Introducing the OSCR: Celebrating Open Source Stars](https://opensauced.pizza/blog/introducing-OSCR)
 
 ## Usage
 
