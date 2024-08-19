@@ -1,5 +1,8 @@
 name: "OpenSauced Dev Card Action"
 description: "Fetches and updates an OpenSauced dev card image in a GitHub repository"
+branding:
+  icon: "image"
+  color: "orange"
 inputs:
   github-token:
     description: "GitHub token"
